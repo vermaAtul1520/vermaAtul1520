@@ -1,6 +1,6 @@
 ![logo](https://github.com/vermaAtul1520/vermaAtul1520/blob/main/687474703a2f2f7761747a616f7765622e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30372f776562736974652d64657369676e2d636f6d70616e792d696e2d79616d756e612d6e616761722e6a7067.jpeg)
 <h1 align="center">Hi 👋, I'm ATuL VeRmA</h1>
-<h3 align="center">A passionate backend developer, and tech learner</h3>
+<h3 align="center">A passionate Full-Stack developer, and tech learner</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <a href="https://twitter.com/atulkum00354545" target="blank"><img src="https://img.shields.io/twitter/follow/atulkum00354545?logo=twitter&style=for-the-badge" alt="atulkum00354545" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **atulverma1520@gmail.com / +91 8127273162**
 
-- 📄 Know about my experiences [https://cutt.ly/atul_resume](https://cutt.ly/atul_resume)
+- 📄 Know about my experiences [https://cutt.ly/atul_resume]([https://cutt.ly/atul_resume](https://drive.google.com/file/d/1TSnV9DpMesbOhsPuRn3HHtH7BlOS7aZj/view?usp=sharing))
 
 - ⚡ Fun fact **I'm not funny actually this is a fun fact.**
 
